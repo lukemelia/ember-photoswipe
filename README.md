@@ -112,5 +112,9 @@ export default PhotoSwipe.extend({
 });
 ```
 
+## Requirements
+
+Due to a bug in older versions of ember-cli, please use ember-cli 2.16.2 or higher.
+
 ## License
 ember-photoswipe is released under the MIT License. See the bundled [LICENSE](LICENSE.md) file for details.
